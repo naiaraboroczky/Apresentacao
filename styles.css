@@ -1,0 +1,29 @@
+h1{
+    color: rgb(40, 37, 38);
+    font-weight: bold;
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(106, 106, 106)
+
+}
+h3{
+
+    font-weight: bold;
+    background-color: rgb(189, 186, 186);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h4{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(36, 36, 36);
+    font-size:medium;
+
+
+}
